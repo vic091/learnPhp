@@ -3,7 +3,6 @@
     "description": "学习包",
     "type": "lib",
     "require": {
-        "swiftmailer/swiftmailer": "^6"
     },
     "license": "mit",
     "authors": [
