@@ -12,5 +12,10 @@
             "email": "326424553@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "vic091\\": "src/"
+        }
+    }
 }
