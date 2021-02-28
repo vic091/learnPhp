@@ -3,6 +3,7 @@
     "description": "学习包",
     "type": "lib",
     "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
     },
     "license": "mit",
     "authors": [
