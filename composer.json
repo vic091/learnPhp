@@ -1,0 +1,16 @@
+{
+    "name": "vic091/learn-php",
+    "description": "学习包",
+    "type": "lib",
+    "require": {
+        "swiftmailer/swiftmailer": "^6"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "vic",
+            "email": "326424553@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
